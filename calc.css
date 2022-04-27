@@ -1,0 +1,64 @@
+#display{
+  width: 95%;
+  height: 50px;
+  text-align: right;
+  font-size: larger;
+  
+}
+
+/* .rad-degButton{
+  display: inline-flex;
+  margin-left: -6px;
+  padding: 20px;
+  text-align: center;
+  background-color: lightgray;
+  border-radius: 15px;
+  justify-content: center;
+  border: 0;
+} */
+
+   /* position: absolute; */
+
+/*
+.funcButton{
+  display: inline-flex;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  background-color: lightgray;
+  align-content: center;
+  border-radius: 15px;
+
+
+}
+
+.numButton{
+  display: inline-flex;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  align-content: center;
+  border-radius: 15px;
+
+} */
+
+.firstRow .secondRow .thirdRow .fourthRow .fifthRow{
+  display: inline-flex;
+  margin: 100%;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  width: 95%;
+  align-items: center;
+  border: 0;
+
+}
+
+button{
+  margin: 10px;
+  padding: 20px;
+  width: 70px;
+  text-align: center;
+  border: 0;
+}
